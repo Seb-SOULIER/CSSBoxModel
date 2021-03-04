@@ -43,10 +43,16 @@ article {
 }
 
 h3{
-    border-top: 5px solid black; 
     padding : 20px;
 }
+ 
+form{
+    height: 250px;
+    border-top : 5px solid black;
+}
 
-.cass{
-    
+textarea, input{
+    display:block;
+    width : 80%;
+    margin: 10px auto;
 }
