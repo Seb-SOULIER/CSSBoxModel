@@ -47,7 +47,7 @@ h3{
 }
  
 form{
-    height: 250px;
+    height: max;
     border-top : 5px solid black;
 }
 
