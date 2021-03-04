@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 ul {
     list-style: none;
     margin: 0;
@@ -26,6 +30,7 @@ h2{
 
 .carousel{
     margin:0;
+    width: 30%;
     padding:100px;
     background-color:#ccc;
     border-top: #333;
@@ -37,9 +42,11 @@ h2{
     
 article {
     display:inline-block;
-    padding: 9rem 7rem;
-    margin: 0.6rem;
+    padding: 20px;
+    height: 30rem;
+    width: 30%;
     background:#ccc;
+    border:0;
 }
 
 h3{
