@@ -30,12 +30,11 @@ h2{
     background-color:#ccc;
     border-top: #333;
 }
-.art{
-    text-align: center;
-    margin:0;
-    padding:0;
-}
 
+.art{
+    text-align:center;
+    }
+    
 article {
     display:inline-block;
     padding: 9rem 7rem;
@@ -49,5 +48,5 @@ h3{
 }
 
 .cass{
-    margin:0;
+    
 }
