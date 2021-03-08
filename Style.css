@@ -51,16 +51,18 @@ article {
 @media only screen and (max-width: 768px){
     li{
         display:block;
+        
     }
     article{
         display:block;
-        width:100%
+        width:100%;
+        margin-bottom:10px;
     }
 } 
 
 h3{
     padding : 20px;
-}
+}git 
  
 form{
       border-top : 5px solid black;
